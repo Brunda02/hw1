@@ -3,7 +3,7 @@ A list of participants in CSC 195
 
 *Please keep this list in alphabetical order by last name.*
 
-* Mandyam Brunda
+* Mandyam Brunda16
 * Toby E. Baratta
 * Larry Boateng Asante
 * Ezra "Slow Rider" Edgerton
